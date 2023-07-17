@@ -1,4 +1,8 @@
 # Ultra web app 
+
+
+
+## Mobile view
 ![ultra-mobile](https://github.com/dayotech/ultra-website/assets/31493149/cccb04f5-5bea-47e3-8e58-c9290d30b900)
 
 

@@ -5,6 +5,8 @@
 ## Mobile view
 ![ultra-mobile](https://github.com/dayotech/ultra-website/assets/31493149/cccb04f5-5bea-47e3-8e58-c9290d30b900)
 
+## Desktop view
+![ultra-desktop](https://github.com/dayotech/ultra-website/assets/31493149/92cda601-e283-4605-a0da-98004745e2d2)
 
 
 
